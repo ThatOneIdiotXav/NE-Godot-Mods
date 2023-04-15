@@ -1,1 +1,5 @@
-# NE-Godot-Mods
+# Nova Engine Godot Mods
+
+## Currently available mods
+
+None, yet.
